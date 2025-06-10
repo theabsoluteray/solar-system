@@ -28,6 +28,4 @@ This project is a 3D simulation of the solar system built using Three.js. It fea
 - `main.js`: JavaScript file containing Three.js scene setup, planet creation, and animation logic
 - `style.css`: CSS file for styling and responsiveness
 
-## Demo Video
-
-A demo video is included to showcase the project in action. 
+## Demo Video [unable to upload the video]
